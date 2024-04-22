@@ -321,13 +321,13 @@ export const  Menu= [
       "items": [
         {
           "item_name": "Paneer Tikka Masala",
-          "description": "Paneer cooked in tandoor and toasted in red gravy.",
+          "description": "Paneer Tikka Masala is a popular Indian curry where cubes of paneer (Indian cottage cheese), onions and peppers are marinated with yogurt and spices, grilled and then tossed in a creamy tomato based curry.",
           "price": 299.00,
           "image": Image17
         },
         {
           "item_name": "Paneer Butter Masala",
-          "description": "Soft Malai Paneer Batons Cooked Well In Authentic Buter Masala Tomato Gravy.",
+          "description": "Soft Malai Paneer Batons Cooked Well In Authentic Buter Masala Tomato Gravy Creamy and flavourful butter paneer.",
           "price": 309.00,
           "image": Image16
         },
