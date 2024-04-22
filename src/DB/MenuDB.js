@@ -321,7 +321,7 @@ export const  Menu= [
       "items": [
         {
           "item_name": "Paneer Tikka Masala",
-          "description": "Paneer Tikka Masala is a popular Indian curry where cubes of paneer (Indian cottage cheese), onions and peppers are marinated with yogurt and spices, grilled and then tossed in a creamy tomato based curry.",
+          "description": "Paneer Tikka Masala is made with(Indian cottage cheese), onions and peppers are marinated with yogurt and spices, grilled and then tossed in a creamy tomato based curry.",
           "price": 299.00,
           "image": Image17
         },
