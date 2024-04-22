@@ -320,13 +320,13 @@ export const  Menu= [
       "section_name": "DINNER",
       "items": [
         {
-          "name": "Paneer Tikka Masala",
+          "item_name": "Paneer Tikka Masala",
           "description": "Paneer cooked in tandoor and toasted in red gravy.",
           "price": 299.00,
           "image": Image17
         },
         {
-          "name": "Paneer Butter Masala",
+          "item_name": "Paneer Butter Masala",
           "description": "Soft Malai Paneer Batons Cooked Well In Authentic Buter Masala Tomato Gravy.",
           "price": 309.00,
           "image": Image16
